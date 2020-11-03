@@ -1,3 +1,3 @@
 # Othello-AI
 - An optimal othello AI using alpha beta pruning. 
-- comes with the GUI and code to play Othello as well. 
+- Includes the GUI and code to play Othello as well VS the AI as well. 
